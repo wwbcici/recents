@@ -1,6 +1,6 @@
 # termuxLauncher
 
-用于启动[termux-app](https://github.com/termux/termux-app)，由 `minimal apk by termux` 构建。可以在此[下载]()已构建完成的apk。
+用于启动[termux-app](https://github.com/termux/termux-app)，由 `minimal apk by termux` 构建。可以在此[下载](https://github.com/wwbcici/recents/releases)已构建完成的apk。
 
 ## build by termux
 
